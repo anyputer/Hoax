@@ -6,4 +6,6 @@ Not your average webhook tool.
     Full Discord Support (Embeds, text-to-speech, etc)
     Cleaner code than the original
     
-    Planned and current commands will be listed here in the future.*
+   Planned and current commands will be listed here:
+   [Hoax Official](https://trello.com/b/KQO6kn3f/hoax)
+   ![Hoax](https://s33.postimg.cc/k8lcdnd9b/image.png)
